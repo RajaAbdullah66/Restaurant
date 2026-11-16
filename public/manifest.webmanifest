@@ -1,0 +1,17 @@
+{
+  "name": "Mehfil Restaurant OS",
+  "short_name": "Mehfil",
+  "description": "Offline-first restaurant point of sale",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8f6",
+  "theme_color": "#183b32",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
